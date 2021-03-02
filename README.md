@@ -1,6 +1,7 @@
 # Self Balancing Bicycle
 
 A Self Balancing bicycle, based on Inverse Pendulum Concept.
+**Project Webpage**:- https://sites.google.com/iiitd.ac.in/self-balancing-next-gen-cycle/home?authuser=0&pli=1
 
 **PROBLEM STATEMENT**
 
@@ -71,3 +72,12 @@ The project involves following **hardware components**:
 3. Processing
 
 <img width="398" alt="Screenshot 2021-03-02 at 2 47 19 PM" src="https://user-images.githubusercontent.com/64140048/109626213-45a11f80-7b66-11eb-8b50-8c38556b9409.png">
+
+**REFERENCE LIST**
+1. https://www.ucl.ac.uk/jdibrief/crime/bicycle-theft
+2. https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
+3. https://pdfs.semanticscholar.org/fbcb/b2cb065f543ddce7a329435d78e5dd711996.pdf
+4. Kalman filtering for sensor fusion: http://www8.cs.umu.se/research/ifor/dl/LOCALIZATION-NAVIGATION/auvi02_mprs.pdf
+5. A self balancing (non implemented ) algorithm just for reference: https://webpages.uncc.edu/~jmconrad/GradStudents/Thesis_Ghangrekar.pdf
+
+
