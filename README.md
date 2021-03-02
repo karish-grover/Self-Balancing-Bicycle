@@ -24,19 +24,22 @@ secured despite their high value. Police detection rates are traditionally low -
 and Wales detection rates are around 5% - in part because many victims of cycle theft
 cannot provide any information on who stole their bicycle. But an additional tracker on
 bicycle makes you find it easily.
+
 ● Upon talking to the neighbours, they stress upon the problem of finding their cycles
 when they are parked in stands with many others. Even my friends in foreign Universities
 mention this. It can get really agitating when you're not able to find your cycle, when
 you're running late for a class or tuition, worse if it is in the morning.
+
 ● Road accidents, we all know is a common problem. However, they are not always one
-car banging into cycles. Sometimes the rider loses control too. There cannot be a significant data to back this claim, since a rider will refuse to accept that it was his fault
-in order to get money from the driver of a motor vehicle. However, as per safety this
+car banging into cycles. Sometimes the rider loses control too. There cannot be a significant data to back this claim, since a rider will refuse to accept that it was his fault in order to get money from the driver of a motor vehicle. However, as per safety this
 self-balancing system can reduce these accidents tremendously.
+
 ● Mostly cycles don’t have headlights. The rider rides at pure instinct at night. We equip
 our cycles with a headlight, making the rider to see the road. Then we are equipping the
 tires of the cycle with kinetically charging LED’s. They will charge upon themselves while
 the wheel rotates and they’ll make the cycle visible to the drivers of other vehicles.
 Majorly reducing road accidents at night.
+
 ● Everyone knows Delhi’s pollution level is on all time high. Promoting such fancy products
 gives consumers an edge to actually buy cycles. If this comes true and people start to
 shift to these cycles for there small distance movement. Then we can reduce pollution
