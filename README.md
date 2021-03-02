@@ -64,6 +64,7 @@ The project involves following **hardware components**:
 5. GPS modules
 6. Joystick
 7. Batteries
+
 **Software:**
 1. Arduino IDE
 2. MIT app inventor
