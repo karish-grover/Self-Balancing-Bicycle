@@ -69,3 +69,5 @@ The project involves following **hardware components**:
 1. Arduino IDE
 2. MIT app inventor
 3. Processing
+
+<img width="398" alt="Screenshot 2021-03-02 at 2 47 19 PM" src="https://user-images.githubusercontent.com/64140048/109626213-45a11f80-7b66-11eb-8b50-8c38556b9409.png">
