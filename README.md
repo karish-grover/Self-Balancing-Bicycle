@@ -18,7 +18,7 @@ Our project solves the following problems:
 
 **PROOF OF SIGNIFICANCE OF THIS PROBLEM**
 
-● Bicycle theft is a high-volume crime, yet has been the subject of limited academic
+● Bicycle theft is a high volume crime, yet has been the subject of limited academic
 attention. Bicycles are attractive targets for theft. They are widely available (increasingly
 so in many urban settings), easy to use, easy to sell and, critically, often left poorly
 secured despite their high value. Police detection rates are traditionally low - in England
